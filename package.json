@@ -1,0 +1,21 @@
+{
+  "name": "passport-photo-generator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@imgly/background-removal": "^1.7.0",
+    "@nuxt/ui": "^4.10.0",
+    "jspdf": "^4.2.1",
+    "nuxt": "^4.4.8",
+    "vue": "^3.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
