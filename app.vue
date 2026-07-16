@@ -43,6 +43,9 @@
         <p class="text-center text-xs text-gray-400 mt-6">
           All processing happens locally in your browser. Your photos are never uploaded anywhere.
         </p>
+        <div class="flex justify-center mt-4">
+          <UColorModeSelect color="neutral" variant="ghost" size="xs" />
+        </div>
       </UContainer>
     </div>
   </UApp>
